@@ -73,15 +73,20 @@
     }
     .btn{
         margin-bottom:0.5rem ;
+
     }
   }
   
 
   @media (min-width: 320px) and (max-width: 729px){
+    .textContainer{
+      width: 20rem;
+    }
     .text span {
-      font-size: 1.5rem; 
+      font-size: 1.2rem; 
       display: inline;
       margin-right: 0.5rem;
+      
       
     }
 
@@ -89,6 +94,13 @@
       font-size: 0.8rem; 
       text-align: center;
     }
+
+    .btn{
+      margin-bottom:0.5rem ;
+      padding: 0.1rem 0.2rem;
+      font-size: 0.5rem;
+
+  }
   }
 
 
