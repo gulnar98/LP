@@ -207,12 +207,34 @@
 }
 
 
+@media (min-width: 1920px) {
+  .heroImg{
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+
+
+  }
+}
+
 @media (min-width: 2500px) {
   .heroImg{
     display: block;
     margin: 0 auto;
     width: 80%;
-    border: solid 4px red;
+
+
+  }
+}
+
+
+
+@media (min-width: 3840px) {
+  .heroImg{
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+
 
   }
 }
