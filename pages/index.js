@@ -8,7 +8,8 @@ import styles from './asset/css/style.module.css'
 
 function HomePage() {
     return <>
-     
+
+
        <div className={styles.wrapper}>
        <div className={styles.nav}> <Navigation/></div>
         <div className={styles.hero}><Hero/></div>
