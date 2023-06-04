@@ -15,10 +15,10 @@ function Hero() {
         border:"none",
         textColor: "white",
         borderRadius: "10px",
-        padding: "20px 20px",
+        padding: "14px 16px",
         fontSize: "1.4em",
-        fontFamily:"Airal",
         fontWeight:"700",
+        fontFamily:"Arial",
         margin:"0 0 0 12px",
         icon:faArrowRight,
         iconPosition:"right",
@@ -30,13 +30,13 @@ function Hero() {
   <div className={styles.wrapper}>
     <div className={styles.textContainer}>
         <div className={styles.text}>
-            <span>Web3 behaviroal analytics &</span>
+            <span>Web3 behavioral analytics &</span>
             <span>insight platform has arrived!</span>
        </div>
-       <p className={styles.title}>Everything web3 product needs to uncover insights and make the right changes</p>
+       <p className={styles.title}>Everything web3 products need to uncover insights and make the right changes</p>
     </div>
     <div className={styles.btn}>
-      <Button  {...buttonProps}></Button>
+      <Button {...buttonProps}/>
     </div>
     <div className={styles.imgContainer}>
         <img src={heroImg.src} alt="image" className={styles.heroImg}/>

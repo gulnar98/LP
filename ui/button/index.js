@@ -61,8 +61,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
         style={buttonStyle}
-        fontFamily="Arial"
-        padding="2000px"
+       
+    
 
 
       >

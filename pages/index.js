@@ -1,6 +1,10 @@
+import 'normalize.css/normalize.css'
 import Hero from "../components/Hero"
 import Navigation from "../components/Navigation"
+
 import styles from './asset/css/style.module.css'
+
+
 
 function HomePage() {
     return <>

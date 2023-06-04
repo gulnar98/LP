@@ -7,6 +7,9 @@
   
   }
 
+  .btn{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
 
   
   .text {
@@ -31,6 +34,11 @@
   
   .menuContainer {
     display: none;
+  }
+
+  .logo{
+
+    width: 8.5rem;
   }
   
   @media (max-width: 768px) {
@@ -77,7 +85,11 @@
     .btn {
       margin: 0;
     }
-  
+    
+    .logo{
+        margin-top: 0.313rem;
+
+    }
     
   }
   

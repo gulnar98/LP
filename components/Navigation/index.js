@@ -21,9 +21,9 @@ function Navigation() {
     border: "none",
     textColor: "black",
     borderRadius: "12px",
-    padding: "12px 12px",
+    padding: "12px 18px",
     fontSize: "1.2em",
-    fontFamily: "Inter",
+    fontFamily: "Arial",
     fontWeight: "700",
     href:"https://mma8y7la0kp.typeform.com/to/fl7pDe5b"
     // margin: "0 0 0 12px"
