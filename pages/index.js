@@ -11,11 +11,10 @@ function HomePage() {
     return <>
 
         <Head>
-
-                            <script 
-            	data-appid="648c1e3a462e896372371249" 
-            	src="https://cdn.app.insightify.xyz/v1/648c1e3a462e896372371249/record.js">
-            </script>
+                <script 
+                	data-appid="648ca984462e896372376abf" 
+                	src="https://cdn.app.insightify.xyz/v1/648ca984462e896372376abf/record.js">
+                </script>
 
          </Head>
        <div className={styles.wrapper}>
