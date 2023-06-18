@@ -12,8 +12,8 @@ function HomePage() {
 
         <Head>
                 <script 
-                	data-appid="648ca984462e896372376abf" 
-                	src="https://cdn.app.insightify.xyz/v1/648ca984462e896372376abf/record.js">
+    	data-appid="648f4d6b462e89637239071d" 
+    	src="https://cdn.app.insightify.xyz/v1/648f4d6b462e89637239071d/record.js">
                 </script>
 
          </Head>
